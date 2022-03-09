@@ -22,7 +22,7 @@ Fraction input_fraction()
   scanf("%d%d",&f.num,&f.den);
   return f;
 }
-void input_n_fractions(int *n, Fraction f[n])
+void input_in_fractions(int *n, Fraction f[n])
 {
   printf("enter the n number of fraction\n");
   scanf("%d",n);

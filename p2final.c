@@ -40,7 +40,6 @@ if(small==num1)
 }
 int main()
 {
-  
   Fraction a,f1,f2,f3,small;
   a=input_fraction();
   

@@ -45,4 +45,4 @@ int main()
   output(n,isp);
   return 0;
   }
-}
+gcc
